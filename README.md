@@ -1,6 +1,9 @@
 # RaycasterDemo
 This is a live demonstation of the optical tricks of projecting a 2d map to a first person field of view, or FOV.
 
+## Demo
+![](images/screenrecording.mp4)
+
 ## Building the Project 
 1. Clone this repo:
     ```
@@ -9,11 +12,15 @@ This is a live demonstation of the optical tricks of projecting a 2d map to a fi
 
 2. Navigate to the project folder
     ```
-    cd RaycasterDemo
+    cd RaycasterDemo/src
     ```
 3. Compile 
     ```
-    g++ main.cpp -0 raycaster
+    g++ gameloop.cpp -0 raycaster
+    ```
+4. Run
+    ```
+    ./gameloop
     ```
 
 
