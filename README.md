@@ -3,9 +3,9 @@ This is a live demonstation of the optical tricks of projecting a 2d map to a fi
 
 
 <h1> Screenshots </h1>
-    ![Alt text](images/screenshot1.png)    
-    ![Alt text](images/screenshot2.png)    
-    ![Alt text](images/screenshot3.png)    
+![Alt text](images/screenshot1.png)    
+![Alt text](images/screenshot2.png)    
+![Alt text](images/screenshot3.png)    
 
 
 
