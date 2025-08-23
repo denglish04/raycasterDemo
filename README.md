@@ -2,10 +2,7 @@
 This is a live demonstation of the optical tricks of projecting a 2d map to a first person field of view, or FOV.
 
 ## Demo
-<video src="images/screenrecording.mp4" controls width ="1024">
-    Your browser does not support the video tag.
-</video>
-
+![](images/screenrecording.gif)
 
 ## Building the Project 
 1. Clone this repo:
