@@ -3,7 +3,7 @@ This live demonstation shows the process of projecting a 2D map to a first perso
 
 ## Demo
 ![](images/screenrecording.gif)
-The left half of the demo displays the 2D birds eye view of the map, player position, and the raycasting done to determine the players distance from walls in the field of view. The right half of the demo displays the first person field of view. 
+The left half of this demo displays the 2D birds eye view of the map, player position, and the raycasting done to determine the players distance from walls in the field of view. The right half of this demo displays the first person field of view from the players perspective. 
 
 
 
