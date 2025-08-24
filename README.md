@@ -17,10 +17,17 @@ The left half of this demo displays the 2D birds eye view of a 16x16 grip map as
     ```
     cd RaycasterDemo/src
     ```
-3. Compile using sdl2 configs 
+
+3. Compile using GCC compiler and sdl2 configs 
     ```
-    clang++ -std=c++17 -o gameloop gameloop.cpp $(sdl2-config --cflags --libs)
+    g++ gameloop.cpp -o gameloop $(sdl2-config --cflags --libs)
     ```
+
+    1. If the GCC compiler is not install 
+    ```
+    brew install gcc
+    ```
+
 4. Run 
     ```
     ./gameloop
