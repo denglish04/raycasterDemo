@@ -1,8 +1,11 @@
 # RaycasterDemo
-This is a live demonstation of the optical tricks of projecting a 2d map to a first person field of view, or FOV.
+This live demonstation shows the process of projecting a 2D map to a first person optical field of view, or FOV. In game development this is also known as first person. 
 
 ## Demo
 ![](images/screenrecording.gif)
+The left half of the demo displays the 2D birds eye view of the map, player position, and the raycasting done to determine the players distance from walls in the field of view. The right half of the demo displays the first person field of view. 
+
+
 
 ## Building the Project 
 1. Clone this repo:
