@@ -24,7 +24,8 @@ The left half of this demo displays the 2D birds eye view of a 16x16 grip map as
     ```
     or for windows
     ```
-    g++ gameloop.cpp -IC:\SDL2\include -LC:\SDL2\lib -lmingw32 -lSDL2main -lSDL2 -o gameloop.exe
+    g++ gameloop.cpp -o gameloop -lmingw32 -lSDL2main -lSDL2
+
     ```
 
     1. If the GCC compiler is not install 
