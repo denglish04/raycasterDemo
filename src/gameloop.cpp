@@ -172,7 +172,7 @@ int main(){
 	 window dimensions by the map dimensions, effectively scaling the 2D map to fit 
 	 the screen.
 	*/
-		drop_ppm_image("./outGameloop.ppm", framebuffer, window_width, window_height);
+	//	drop_ppm_image("./outGameloop.ppm", framebuffer, window_width, window_height);
 
 	
 
